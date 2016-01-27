@@ -1,0 +1,584 @@
+======== Results: ========
+d =  1
+expfun = 0
+logfun = 0
+errMin =  14.331
+errAvg =  17.136
+==========================
+
+======== Results: ========
+d =  1
+expfun = 0
+logfun =  1
+errMin =  15.026
+errAvg =  17.686
+==========================
+
+======== Results: ========
+d =  1
+expfun =  1
+logfun = 0
+errMin =  100.38
+errAvg =  100.61
+==========================
+
+======== Results: ========
+d =  1
+expfun =  1
+logfun =  1
+errMin =  100.38
+errAvg =  100.61
+==========================
+
+======== Results: ========
+d =  2
+expfun = 0
+logfun = 0
+errMin =  113.83
+errAvg =  96.026
+==========================
+
+======== Results: ========
+d =  2
+expfun = 0
+logfun =  1
+errMin =  113.69
+errAvg =  68.977
+==========================
+
+======== Results: ========
+d =  2
+expfun =  1
+logfun = 0
+errMin =  100.38
+errAvg =  100.61
+==========================
+
+======== Results: ========
+d =  2
+expfun =  1
+logfun =  1
+errMin =  100.38
+errAvg =  100.61
+==========================
+
+======== Results: ========
+d =  3
+expfun = 0
+logfun = 0
+errMin =  59.675
+errAvg =  826.76
+==========================
+
+======== Results: ========
+d =  3
+expfun = 0
+logfun =  1
+errMin =  59.205
+errAvg =  810.41
+==========================
+
+======== Results: ========
+d =  3
+expfun =  1
+logfun = 0
+errMin =  100.38
+errAvg =  100.61
+==========================
+
+======== Results: ========
+d =  3
+expfun =  1
+logfun =  1
+errMin =  100.38
+errAvg =  100.61
+==========================
+
+
+
+--------------------------------------------------------------------------------
+Po manualnom skalovani parametrov pre exp:
+======== Results: ========
+d =  1
+expfun = 0
+logfun = 0
+errMin =  14.331
+errAvg =  17.136
+==========================
+
+======== Results: ========
+d =  1
+expfun = 0
+logfun =  1
+errMin =  15.026
+errAvg =  17.686
+==========================
+
+======== Results: ========
+d =  1
+expfun =  1
+logfun = 0
+errMin =  13.128
+errAvg =  15.216
+==========================
+
+======== Results: ========
+d =  1
+expfun =  1
+logfun =  1
+errMin =  14.452
+errAvg =  16.309
+==========================
+
+======== Results: ========
+d =  2
+expfun = 0
+logfun = 0
+errMin =  113.83
+errAvg =  96.026
+==========================
+
+======== Results: ========
+d =  2
+expfun = 0
+logfun =  1
+errMin =  113.69
+errAvg =  68.977
+==========================
+
+======== Results: ========
+d =  2
+expfun =  1
+logfun = 0
+errMin =  231.82
+errAvg =  245.75
+==========================
+
+======== Results: ========
+d =  2
+expfun =  1
+logfun =  1
+errMin =  189.72
+errAvg =  216.48
+==========================
+
+======== Results: ========
+d =  3
+expfun = 0
+logfun = 0
+errMin =  59.675
+errAvg =  826.76
+==========================
+
+======== Results: ========
+d =  3
+expfun = 0
+logfun =  1
+errMin =  59.205
+errAvg =  810.41
+==========================
+
+======== Results: ========
+d =  3
+expfun =  1
+logfun = 0
+errMin =  59.433
+errAvg =  816.19
+==========================
+
+======== Results: ========
+d =  3
+expfun =  1
+logfun =  1
+errMin =  60.121
+errAvg =  837.91
+==========================
+
+
+
+--------------------------------------------------------------------------------
+Po manualnom skalovani parametrov pre exp a log:
+======== Results: ========
+d =  1
+expfun = 0
+logfun = 0
+errMin =  14.331
+errAvg =  17.136
+==========================
+
+======== Results: ========
+d =  1
+expfun = 0
+logfun =  1
+errMin =  14.629
+errAvg =  16.358
+==========================
+
+======== Results: ========
+d =  1
+expfun =  1
+logfun = 0
+errMin =  13.128
+errAvg =  15.216
+==========================
+
+======== Results: ========
+d =  1
+expfun =  1
+logfun =  1
+errMin =  14.592
+errAvg =  15.335
+==========================
+
+======== Results: ========
+d =  2
+expfun = 0
+logfun = 0
+errMin =  113.83
+errAvg =  96.026
+==========================
+
+======== Results: ========
+d =  2
+expfun = 0
+logfun =  1
+errMin =  92.996
+errAvg =  112.32
+==========================
+
+======== Results: ========
+d =  2
+expfun =  1
+logfun = 0
+errMin =  231.82
+errAvg =  245.75
+==========================
+
+======== Results: ========
+d =  2
+expfun =  1
+logfun =  1
+errMin =  527.25
+errAvg =  450.13
+==========================
+
+
+
+--------------------------------------------------------------------------------
+Po automatickom skalovani vsetkych parametrov:
+======== Results: ========
+d =  1
+expfun = 0
+logfun = 0
+errMin =  14.331
+errAvg =  17.136
+==========================
+
+======== Results: ========
+d =  1
+expfun =  1
+logfun = 0
+errMin =  22.859
+errAvg =  14.562
+==========================
+
+======== Results: ========
+d =  2
+expfun = 0
+logfun = 0
+errMin =  28.958
+errAvg =  23.439
+==========================
+
+======== Results: ========
+d =  2
+expfun =  1
+logfun = 0
+errMin =  19.320
+errAvg =  30.187
+==========================
+
+
+
+--------------------------------------------------------------------------------
+Po automatickom skalovani parametrov pre exp a log:
+======== Results: ========
+d =  1
+expfun = 0
+logfun = 0
+errMin =  14.331
+errAvg =  17.136
+==========================
+
+======== Results: ========
+d =  1
+expfun = 0
+logfun =  1
+errMin =  14.586
+errAvg =  16.043
+==========================
+
+======== Results: ========
+d =  1
+expfun =  1
+logfun = 0
+errMin =  13.282
+errAvg =  14.726
+==========================
+
+======== Results: ========
+d =  1
+expfun =  1
+logfun =  1
+errMin =  14.601
+errAvg =  14.444
+==========================
+
+
+--------------------------------------------------------------------------------
+Po skalovani technickych parametrov mobilov:
+======== Results: ========
+d =  1
+expfun = 0
+logfun = 0
+errMin =  14.648
+errAvg =  14.215
+==========================
+
+======== Results: ========
+d =  1
+expfun = 0
+logfun =  1
+errMin =  13.933
+errAvg =  17.601
+==========================
+
+======== Results: ========
+d =  1
+expfun =  1
+logfun = 0
+errMin =  11.628
+errAvg =  18.185
+==========================
+
+======== Results: ========
+d =  1
+expfun =  1
+logfun =  1
+errMin =  34.846
+errAvg =  70.297
+==========================
+
+
+
+--------------------------------------------------------------------------------
+5-Fold bez skalovania technickych parametrov:
+======== Results: ========
+d =  1
+expfun = 0
+logfun = 0
+errMin =  14.082
+errAvg =  18.579
+==========================
+
+======== Results: ========
+d =  1
+expfun = 0
+logfun =  1
+errMin =  14.424
+errAvg =  15.575
+==========================
+
+======== Results: ========
+d =  1
+expfun =  1
+logfun = 0
+errMin =  13.402
+errAvg =  15.784
+==========================
+
+======== Results: ========
+d =  1
+expfun =  1
+logfun =  1
+errMin =  14.497
+errAvg =  13.630
+==========================
+
+
+
+--------------------------------------------------------------------------------
+5-Fold so skalovanim technickych parametrov:
+======== Results: ========
+d =  1
+expfun = 0
+logfun = 0
+errMin =  14.655
+errAvg =  13.233
+==========================
+
+======== Results: ========
+d =  1
+expfun = 0
+logfun =  1
+errMin =  12.335
+errAvg =  15.806
+==========================
+
+======== Results: ========
+d =  1
+expfun =  1
+logfun = 0
+errMin =  9.7104
+errAvg =  15.731
+==========================
+
+======== Results: ========
+d =  1
+expfun =  1
+logfun =  1
+errMin =  17.899
+errAvg =  31.452
+==========================
+
+
+--------------------------------------------------------------------------------
+25-Fold bez skalovania technickych parametrov:
+======== Results: ========
+d =  1
+expfun = 0
+logfun = 0
+errMin =  14.346
+errAvg =  17.091
+==========================
+
+======== Results: ========
+d =  1
+expfun = 0
+logfun =  1
+errMin =  14.544
+errAvg =  15.988
+==========================
+
+======== Results: ========
+d =  1
+expfun =  1
+logfun = 0
+errMin =  13.236
+errAvg =  14.431
+==========================
+
+======== Results: ========
+d =  1
+expfun =  1
+logfun =  1
+errMin =  14.611
+errAvg =  14.521
+==========================
+
+
+
+--------------------------------------------------------------------------------
+25-Fold so skalovanim technickych parametrov:
+======== Results: ========
+d =  1
+expfun = 0
+logfun = 0
+errMin =  14.600
+errAvg =  14.140
+==========================
+
+======== Results: ========
+d =  1
+expfun = 0
+logfun =  1
+errMin =  14.031
+errAvg =  17.901
+==========================
+
+======== Results: ========
+d =  1
+expfun =  1
+logfun = 0
+errMin =  11.530
+errAvg =  18.116
+==========================
+
+======== Results: ========
+d =  1
+expfun =  1
+logfun =  1
+errMin =  21.206
+errAvg =  31.507
+==========================
+
+
+
+--------------------------------------------------------------------------------
+15-Fold bez skalovania technickych parametrov:
+======== Results: ========
+d =  1
+expfun = 0
+logfun = 0
+errMin =  14.324
+errAvg =  17.352
+==========================
+
+======== Results: ========
+d =  1
+expfun = 0
+logfun =  1
+errMin =  14.475
+errAvg =  16.007
+==========================
+
+======== Results: ========
+d =  1
+expfun =  1
+logfun = 0
+errMin =  13.397
+errAvg =  14.837
+==========================
+
+======== Results: ========
+d =  1
+expfun =  1
+logfun =  1
+errMin =  14.451
+errAvg =  14.606
+==========================
+
+
+--------------------------------------------------------------------------------
+15-Fold so skalovanim technickych parametrov:
+======== Results: ========
+d =  1
+expfun = 0
+logfun = 0
+errMin =  14.417
+errAvg =  14.365
+==========================
+
+======== Results: ========
+d =  1
+expfun = 0
+logfun =  1
+errMin =  13.848
+errAvg =  19.179
+==========================
+
+======== Results: ========
+d =  1
+expfun =  1
+logfun = 0
+errMin =  10.534
+errAvg =  14.921
+==========================
+
+======== Results: ========
+d =  1
+expfun =  1
+logfun =  1
+errMin =  20.084
+errAvg =  32.071
+==========================
